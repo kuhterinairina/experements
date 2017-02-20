@@ -1,0 +1,17 @@
+#vessel {
+  background-image: url('../imgs/1layer.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 1.5em auto;
+  overflow: hidden;
+  position: relative;
+
+  height: 450px;
+  width: 100%;
+  max-width: 800px;
+}
+#vessel img {
+  position: absolute;
+  overflow: hidden;
+  top: -208px;
+}

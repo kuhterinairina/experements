@@ -1,0 +1,23 @@
+body {
+
+}
+
+#bg {
+
+/*	background-image: url(../imgs/1layer.png);*/
+/*	background-position: top center;*/
+/*	background-repeat: no-repeat;*/
+	height: 600px;
+	width: 100vh;
+	position: relative;
+	margin: 0 auto;
+	overflow: hidden;
+/*	background-size: cover;*/
+}
+
+	
+img {
+	width: 900px;
+	position: absolute;
+	overflow: hidden;
+}
